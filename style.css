@@ -120,6 +120,8 @@ p {
 	p {
 	font-size: 1em; 
 	line-height: 20px
-	
+        }
+	#head{ 
+        Width:50%;
 }
 }
